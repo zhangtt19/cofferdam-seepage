@@ -1,0 +1,62 @@
+[
+  {
+    "archive": "without-clay.zip",
+    "member": "CofferDam_without_clay.gpr",
+    "bytes": 638228,
+    "sha256": "dc338fe9cd55cead262ee3cdb3d76b7d91b476e00de19df2ff47410ec73bcd73"
+  },
+  {
+    "archive": "without-clay.zip",
+    "member": "CofferDam_without_clay_SEEP2D/CofferDam_without_clay.out",
+    "bytes": 594886,
+    "sha256": "11ba12687659df625ed28f5a9e7d42f3e3bf83b0bf397a58e28a89ccc67e9ff0"
+  },
+  {
+    "archive": "without-clay.zip",
+    "member": "CofferDam_without_clay_SEEP2D/CofferDam_without_clay.s2d",
+    "bytes": 165834,
+    "sha256": "3bd062b3bc29322cd6dc59e179a172838f5b3a91d0b53b3e623e330a1277a948"
+  },
+  {
+    "archive": "without-clay.zip",
+    "member": "CofferDam_without_clay_SEEP2D/CofferDam_without_clay.sps",
+    "bytes": 123,
+    "sha256": "780381534cc97192665351fbf84613850f77f2fa5451b9cd7213740a377c2a72"
+  },
+  {
+    "archive": "without-clay.zip",
+    "member": "CofferDam_without_clay_SEEP2D/CofferDam_without_clay.ssl",
+    "bytes": 72504,
+    "sha256": "4ccb6adb187b1e084e568367e1b1bb0e5a0ccb04d1f1170d7b3e0ba02acfa4c5"
+  },
+  {
+    "archive": "with-clay.zip",
+    "member": "CofferDam_with_clay.gpr",
+    "bytes": 638209,
+    "sha256": "d95417aecf296e04fd7fc682b84aa6ad0bb6baca6bbfd3f3507428c90a27345c"
+  },
+  {
+    "archive": "with-clay.zip",
+    "member": "CofferDam_with_clay_SEEP2D/CofferDam_with_clay.out",
+    "bytes": 594411,
+    "sha256": "aa5aba7d7427d24bc2bbae1ad0aae53f32e93618c0b818009620adedcbd19104"
+  },
+  {
+    "archive": "with-clay.zip",
+    "member": "CofferDam_with_clay_SEEP2D/CofferDam_with_clay.s2d",
+    "bytes": 165459,
+    "sha256": "84cf31a1aa423750c8a72548703a753fe14c2ef1e896b5f1c4c9c75e4174195c"
+  },
+  {
+    "archive": "with-clay.zip",
+    "member": "CofferDam_with_clay_SEEP2D/CofferDam_with_clay.sps",
+    "bytes": 114,
+    "sha256": "a71669f93560ed868c3ea7b1c4a20958ba813b1deea7c7036075545ced4da8e9"
+  },
+  {
+    "archive": "with-clay.zip",
+    "member": "CofferDam_with_clay_SEEP2D/CofferDam_with_clay.ssl",
+    "bytes": 72504,
+    "sha256": "2fd3a39199c45d0908d0c87db85d9a3b758395aef7041b2925b3e739352b9fb9"
+  }
+]

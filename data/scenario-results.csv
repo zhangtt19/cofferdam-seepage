@@ -1,0 +1,3 @@
+﻿scenario,seepage_m3_per_year_per_m,maximum_hydraulic_gradient
+without_clay,11149.46,1.26
+with_clay,5442.24,0.54
